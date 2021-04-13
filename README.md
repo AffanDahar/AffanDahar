@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Affan Ahmed Dahar !
+Computer Science Graduated. Looking for an opportunity as a MERN Stack Developer. Have a passion of coding. I have a hands-on experience on Reacts JS and Node JS / Express JS. Attentive learner. Love playing Football and a team player. And my goal is to fully utilize my training and skills, while making a significant contribution to the success of the company.
+
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" width="50px">    <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original-wordmark.svg" width="50px">      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" width="50px"> 
 
 <!--
 **AffanDahar/AffanDahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
