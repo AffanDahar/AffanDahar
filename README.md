@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am Affan Ahmed Dahar !
-Computer Science Graduated. Looking for an opportunity as a MERN Stack Developer. Have a passion of coding. I have a hands-on experience on Reacts JS and Node JS / Express JS. Attentive learner. Love playing Football and a team player. And my goal is to fully utilize my training and skills, while making a significant contribution to the success of the company.
+Computer Science Graduated. Have a passion of coding. I have a hands-on experience on Reacts JS and Node JS / Express JS. Attentive learner. Love playing Football and a team player. And my goal is to fully utilize my training and skills, while making a significant contribution to the success of the company.
 
 🧰 Toolbox
 
